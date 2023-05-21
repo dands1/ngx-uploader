@@ -127,5 +127,7 @@
       }
     }
   },
-  "defaultProject": "uploader"
+  "cli": {
+    "analytics": false
+  }
 }
