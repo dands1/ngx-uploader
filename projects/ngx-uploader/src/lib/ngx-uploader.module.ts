@@ -7,7 +7,4 @@ import { NgFileSelectDirective } from './ng-file-select.directive';
   exports: [NgFileDropDirective, NgFileSelectDirective]
 })
 export class NgxUploaderModule {
-  constructor() {
-    console.log('here');
-  }
 }
